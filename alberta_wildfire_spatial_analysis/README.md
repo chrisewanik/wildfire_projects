@@ -1,3 +1,3 @@
-This project uses Canadian Wildfire Ignition data to explore trends, distributions and the construction of a aritifical neural network to predict fire size
+This project conducts a spatial analysis of Albertan Wildfire Ignition Data. The analysis uses a variety of spatial statistics and an artificial neural network to attempt and analyze and study the trends of wildfires. The classification goal of the neural network is to predict whether a fire is over or below 200 hectares (the general definition for large wildfires). The project shows that Alberta wildfires are showing similar trends to California's. Additionally, the study provides strong evidence for spatial-temporal clustering and achieves a 93% accuracy in predicting the size of the fire. 
 
 To Watch the video presentation please click here: https://drive.google.com/file/d/1nZ6omCaEfYmhqb3qh8wnNuEhwUKcgmOi/view?usp=share_link
