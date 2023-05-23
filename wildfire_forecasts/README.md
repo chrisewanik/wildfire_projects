@@ -1,3 +1,7 @@
+## Authors
+- Christopher Ewanik <christopher.ewanik@maine.edu>
+- Abhilash Durgam <abhilash.durgam@maine.edu>
+
 ## tl;dr
 1. Top performing model (Multivariate DeepAR) had a RMSE of 0.65 Fires / Week
 2. Proper preprocessing, including spatial binning, improved results
