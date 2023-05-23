@@ -1,5 +1,5 @@
 ## tl;dr
-1. Weekly time series models are encouragingly accurate
+1. Top performing model (Multivariate DeepAR) had a RMSE of 0.65 Fires / Week
 2. Proper preprocessing, including spatial binning, improved results
 3. Need for testing on different prediction lengths and exploration of cost functions
 4. Model stacking would improve results
